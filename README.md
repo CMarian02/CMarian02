@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [now on github profile](now on github profile)
 
-- 📫 How to reach me **cmarian.office@gmail.com**
+- 📫 How to reach me **lcmarian.office@gmail.com**
 
 - 📄 Know about my experiences [At the beginning of the road.](At the beginning of the road.)
 
