@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm CMarian</h1>
 <h3 align="center">A young man at the beginning of his career, passionate about programming, especially Python.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmarian02&label=Profile%20views&color=e97c16&style=flat" alt="cmarian02" /> </p>
 - I am looking for new opportunities for my personal development.👀<br>
 - Learn Python from August 2022 📅<br>
 - I am ready to learn new things. ⚡<br>
