@@ -4,17 +4,13 @@
 <img align="right" alt="programming" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmarian02&label=Profile%20views&color=e97c16&style=flat" alt="cmarian02" /> </p>
 
-- 🔭 I’m currently working on **fast-convert**
-
-- 🌱 I’m currently learning **Flask, Pandas**
-
-- 👨‍💻 All of my projects are available at [now on github profile](now on github profile)
-
-- 📫 How to reach me **lcmarian.office@gmail.com**
-
-- 📄 Know about my experiences [At the beginning of the road.](At the beginning of the road.)
-
-- ⚡ Fun fact **knock! knock!**
+- I’m a young student! 🎓
+- 
+- I am looking for new opportunities for my personal development.👀
+- 
+- Learn Python from August 2022 📅
+- 
+- I am ready to learn new things. ⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
